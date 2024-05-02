@@ -1,0 +1,9 @@
+Gruppenmitglieder:
+- Emma-Sophie Betz
+- Niklas Bieda
+- Daniel Kurth
+- Pascal Stark
+
+Datensatz: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+
+Kurs B
